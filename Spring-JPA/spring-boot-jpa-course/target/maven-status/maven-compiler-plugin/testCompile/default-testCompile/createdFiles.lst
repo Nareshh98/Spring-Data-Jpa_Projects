@@ -1,0 +1,12 @@
+com\springdatajpa\springboot\repository\PaginationAndSortingTest.class
+com\springdatajpa\springboot\repository\QueryMethodsTest.class
+com\springdatajpa\springboot\repository\OneToOneBidirectionalMappingTest.class
+com\springdatajpa\springboot\SpringDataJpaCourseApplicationTests.class
+com\springdatajpa\springboot\repository\OneToManyMappingTest.class
+com\springdatajpa\springboot\repository\ManyToManyUnidirectionalTest.class
+com\springdatajpa\springboot\repository\OneToOneUnidirectionalMappingTest.class
+com\springdatajpa\springboot\repository\ProductRepositoryTest.class
+com\springdatajpa\springboot\repository\NamedQueriesTest.class
+com\springdatajpa\springboot\repository\NativeSQLQueriesTest.class
+com\springdatajpa\springboot\repository\JPQLQueriesTest.class
+com\springdatajpa\springboot\repository\ProductCategoryRepositoryTest.class

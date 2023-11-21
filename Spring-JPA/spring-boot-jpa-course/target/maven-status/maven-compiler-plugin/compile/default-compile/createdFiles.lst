@@ -1,0 +1,14 @@
+com\springdatajpa\springboot\repository\UserRepository.class
+com\springdatajpa\springboot\repository\RoleRepository.class
+com\springdatajpa\springboot\SpringDataJpaCourseApplication.class
+com\springdatajpa\springboot\repository\ProductRepository.class
+com\springdatajpa\springboot\entity\Role.class
+com\springdatajpa\springboot\entity\User.class
+com\springdatajpa\springboot\entity\Order.class
+com\springdatajpa\springboot\repository\AddressRepository.class
+com\springdatajpa\springboot\entity\OrderItem.class
+com\springdatajpa\springboot\entity\Product.class
+com\springdatajpa\springboot\repository\OrderRepository.class
+com\springdatajpa\springboot\entity\ProductCategory.class
+com\springdatajpa\springboot\entity\Address.class
+com\springdatajpa\springboot\repository\ProductCategoryRepository.class
